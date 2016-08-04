@@ -1,16 +1,8 @@
 #!/bin/bash
 
-chown root:wheel /etc/MinimalHostsBlocker
-chmod 755 /etc/MinimalHostsBlocker
-chown root:wheel /etc/MinimalHostsBlocker/minimalhosts
-chmod 644 /etc/MinimalHostsBlocker/minimalhosts
-chown root:wheel /etc/MinimalHostsBlocker/defaulthosts
-chmod 644 /etc/MinimalHostsBlocker/defaulthosts
 echo "Overwriting hosts file..."
 cp -a /etc/MinimalHostsBlocker/minimalhosts /etc/hosts
 echo "Overwrite complete!"
-chown root:wheel /etc/hosts
-chmod 644 /etc/hosts
 echo "Killing discoveryd/mDNSResponder..."
 killall -9 discoveryd
 killall -9 mDNSResponder

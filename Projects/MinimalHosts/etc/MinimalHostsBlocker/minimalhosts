@@ -1,9 +1,8 @@
-#MHB72
+#MHB73
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
 
-:: ad.kixer.com
 :: admob.biz
 :: admob.co.kr
 :: admob.co.nz
@@ -29,6 +28,9 @@
 :: ads.yimg.com
 :: ads.youtube.com
 :: adx.g.doubleclick.net
+:: affiliate.2mdn.net
+:: aka-cdn-ns.adtechus.com
+:: an.yandex.ru
 :: assets.applovin.com
 :: assets.kixer.com
 :: az708531.vo.msecnd.net
@@ -39,6 +41,7 @@
 :: cdn.directtrk.com
 :: cdn.kixer.com
 :: cdn.pubexchange.com
+:: creatives.doubleclick.net
 :: dfp.doubleclick.net
 :: doubleclick.com
 :: doubleclick.de
@@ -46,18 +49,25 @@
 :: doubleclick.net
 :: googleads.g.doubleclick.net
 :: ir.doubleclick.net
+:: m.2mdn.net
 :: m.admob.com
+:: m.doubleclick.net
+:: m1.2mdn.net
+:: mc.yandex.ru
 :: pagead2.googlesyndication.com
 :: q1mediahydraplatform.com
+:: s0.doubleclick.net
+:: s1.2mdn.net
 :: s2.video.doubleclick.net
 :: srv.bebi.com
+:: static.2mdn.net
+:: static.doubleclick.net
 :: static.exoclick.com
 :: static.getclicky.com
 :: stats.g.doubleclick.net
 :: tpc.googlesyndication.com
 :: traffic.trafficposse.com
 :: video-stats.video.google.com
-:: www.appnexus.com
 :: www.doubleclick.com
 :: www.doubleclick.net
 :: www2.doubleclick.com
@@ -167,6 +177,7 @@
 0 addthis.com
 0 ade.clmbtech.com
 0 adf.send.microad.jp
+0 adition.com
 0 adkengage.com
 0 adledge.com
 0 adm.shinobi.jp
@@ -260,6 +271,7 @@
 0 ah.yimg.jp
 0 aka-cdn-ns.adtechus.com
 0 amung.us
+0 an.yandex.ru
 0 ap.lijit.com
 0 api.adsnative.com
 0 api.content.ad
@@ -317,7 +329,6 @@
 0 cdn.adnxs.com
 0 cdn.adshexa.com
 0 cdn.adsrvmedia.net
-0 cdn.ajillionmax.com
 0 cdn.applift.com
 0 cdn.at.atwola.com
 0 cdn.bidvertiser.com
@@ -390,6 +401,7 @@
 0 dev.visualwebsiteoptimizer.com
 0 dfp.doubleclick.net
 0 directrev.blob.core.windows.net
+0 disqusads.com
 0 doubleclick.com
 0 doubleclick.de
 0 doubleclick.ne.jp
@@ -498,6 +510,7 @@
 0 mads.at.atwola.com
 0 marketing.888.com
 0 max.crwd.io
+0 mc.yandex.ru
 0 media.888.com
 0 media.admob.com
 0 media.fastclick.net
@@ -527,6 +540,7 @@
 0 ns2.backbeatmedia.com
 0 nym1.ib.adnxs.com
 0 nyyed.com
+0 ocsp.apple.com
 0 odb.outbrain.com
 0 onceux.unicornmedia.com
 0 onclickads.net
@@ -550,7 +564,6 @@
 0 pixel.quantserve.com
 0 pixel.redditmedia.com
 0 pixel.rubiconproject.com
-0 pornhub.kolestence.com
 0 pq-direct.revsci.net
 0 prm.europacash.com
 0 projectwonderful.com
@@ -684,7 +697,6 @@
 0 www.outbrain.com
 0 www.projectwonderful.com
 0 www.quantserve.com
-0 www.redditmedia.com
 0 www.smartadserver.com
 0 www.terraclicks.com
 0 www.terrapops.com

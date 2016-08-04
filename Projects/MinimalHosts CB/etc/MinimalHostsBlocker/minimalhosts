@@ -1,9 +1,8 @@
-#MHBCB12
+#MHBCB13
 127.0.0.1		localhost
 255.255.255.255 broadcasthost
 ::1				localhost
 
-:: ad.kixer.com
 :: admob.biz
 :: admob.co.kr
 :: admob.co.nz
@@ -39,6 +38,8 @@
 0 a.jumptap.com
 0 ad.a-ads.com
 0 ad.kixer.com
+0 ad.leadbolt.net
+0 ad.leadboltads.net
 0 ad.taptica.com
 0 admob.biz
 0 admob.co.kr
@@ -89,6 +90,7 @@
 0 cf.cdn.inmobi.com
 0 china.inmobi.com
 0 creative1cdn.mobfox.com
+0 disqusads.com
 0 e.admob.com
 0 eclkmpbn.com
 0 eclkmpsa.com
@@ -116,6 +118,7 @@
 0 mobile.juicyads.com
 0 modmyi.us.intellitxt.com
 0 my.mobfox.com
+0 ocsp.apple.com
 0 pagead2.googlesyndication.com
 0 partner.googleadservices.com
 0 pixel.redditmedia.com
@@ -129,8 +132,9 @@
 0 srv.juiceadv.com
 0 static.doubleclick.net
 0 tags.bkrtx.com
+0 tempest.services.disqus.com
+0 trc.taboola.com
 0 w.inmobi.com
 0 ws.tapjoyads.com
 0 wv.inner-active.mobi
 0 www.inmobi.com
-0 www.redditmedia.com
