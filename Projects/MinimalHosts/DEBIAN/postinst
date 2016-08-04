@@ -2,7 +2,6 @@
 
 echo "Overwriting hosts file..."
 cp -a /etc/MinimalHostsBlocker/minimalhosts /etc/hosts
-echo "Overwrite complete!"
 echo "Killing discoveryd/mDNSResponder..."
 killall -9 discoveryd
 killall -9 mDNSResponder
