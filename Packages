@@ -5,10 +5,10 @@ Maintainer: ReddestDream <reddestdream@gmail.com>
 Pre-Depends: dpkg (>= 1.13.25-5)
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.reddestdream.minimalhostsblocker
 Filename: ./debs/com.reddestdream.mhbcb_1.3_iphoneos-arm.deb
-Size: 2362
-MD5sum: c468ab154cf47d9a73fb1513a7c418f6
-SHA1: f1d5416c19aadb3e417fb4f9e82a67ea13fef5a5
-SHA256: 795e056fead5600bc17ea7ad250f848090e9f3f07d71bf4908f88462a88ecb1c
+Size: 2354
+MD5sum: c1fd4f845fcdc25528ba3afbccfd6bfc
+SHA1: 818b48462ec90365ca29abf58ae995a24fa3c124
+SHA256: 36cbffc8993e7bcd5d13c71fc592054aedef2ecc0206e2bb2b4ac42d97126c75
 Section: Tweaks
 Description: Minimal Hosts to be used with a Content Blocker! ^_^
 Author: ReddestDream <reddestdream@gmail.com>
@@ -21,10 +21,10 @@ Maintainer: ReddestDream <reddestdream@gmail.com>
 Pre-Depends: dpkg (>= 1.13.25-5)
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Filename: ./debs/com.reddestdream.minimalhostsblocker_7.3_iphoneos-arm.deb
-Size: 5746
-MD5sum: ab6ba372829b1eedd08b9341c30c00a9
-SHA1: c7ae68e8010f47ac3b07681bb8745fb2bf1105ee
-SHA256: 6a7c759ecffc24a5877f433262905e10ca7209492248a29a9015fd4027bf8008
+Size: 5534
+MD5sum: 0e7add3fc9f35751b169fc7b01cab367
+SHA1: a56ecee57ca376a8a27907215924642379e04239
+SHA256: dceeb4c50699a414cb814eedb2b6102d9bbb7eafe7edaf669c6a020e38d0215b
 Section: Tweaks
 Description: A Minimal Ad Blocker! ^_^
 Author: ReddestDream <reddestdream@gmail.com>

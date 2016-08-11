@@ -1,4 +1,4 @@
 #!/bin/bash
-dpkg-deb -bZgzip Projects/MinimalHosts debs
-dpkg-deb -bZgzip Projects/MinimalHostsCB debs
-# dpkg-deb --bZgzip Projects/<projectname> <output folder>
+dpkg-deb -bZlzma Projects/MinimalHosts debs
+dpkg-deb -bZlzma Projects/MinimalHostsCB debs
+# dpkg-deb --bZlzma Projects/<projectname> <output folder>
