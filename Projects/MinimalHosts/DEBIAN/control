@@ -5,6 +5,7 @@ Architecture: iphoneos-arm
 Pre-Depends: dpkg (>= 1.13.25-5)
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Description: A Minimal Ad Blocker! ^_^
+Depiction: https://reddestdream.github.io/depictions/MinimalHostsBlocker/index.html
 Maintainer: ReddestDream <reddestdream@gmail.com>
 Author: ReddestDream <reddestdream@gmail.com>
 Section: Tweaks
