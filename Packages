@@ -12,7 +12,7 @@ SHA256: 36cbffc8993e7bcd5d13c71fc592054aedef2ecc0206e2bb2b4ac42d97126c75
 Section: Tweaks
 Description: Minimal Hosts to be used with a Content Blocker! ^_^
 Author: ReddestDream <reddestdream@gmail.com>
-Depiction: https://www.reddestdream.github.io/depictions/MinimalHostsBlocker/index.html
+Depiction: https://www.reddestdream.github.io/depictions/MinimalHostsBlockerCB/index.html
 Name: Minimal Hosts Blocker CB
 
 Package: com.reddestdream.minimalhostsblocker
@@ -29,6 +29,6 @@ SHA256: dceeb4c50699a414cb814eedb2b6102d9bbb7eafe7edaf669c6a020e38d0215b
 Section: Tweaks
 Description: A Minimal Ad Blocker! ^_^
 Author: ReddestDream <reddestdream@gmail.com>
-Depiction: https://www.reddestdream.github.io/depictions/MinimalHostsBlockerCB/index.html
+Depiction: https://www.reddestdream.github.io/depictions/MinimalHostsBlocker/index.html
 Name: Minimal Hosts Blocker
 
